@@ -1,0 +1,5 @@
+ruff
+mypy
+tox
+
+types-google-cloud-storage
